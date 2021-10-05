@@ -1,2 +1,2 @@
-# temsorflow2
-temsorflow2学习
+# tensorflow2
+tensorflow2学习
